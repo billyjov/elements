@@ -1,0 +1,125 @@
+{
+  "configVersion": 1,
+  "timestamp": 1621580123233,
+  "index": "/elements/index.html",
+  "assetGroups": [
+    {
+      "name": "@angular-extensions/elements",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/elements/140.647d21f2890217744710.js",
+        "/elements/146.0fbc8418f957b1361dc9.js",
+        "/elements/152.3082ebee810fee43d796.js",
+        "/elements/171.595e55c1506f1a686d43.js",
+        "/elements/26.957c247350f27734d087.js",
+        "/elements/309.182a13728a67cc6e3df7.js",
+        "/elements/394.8c5f7ad882716940a48b.js",
+        "/elements/42.e201dba491dc721aa79f.js",
+        "/elements/486.f83f00b89072cb1075fe.js",
+        "/elements/542.527d9bc5f9ef7ed0ccc2.js",
+        "/elements/548.99a0a959d61b24be4626.js",
+        "/elements/566.e6b917438012aaa66ba7.js",
+        "/elements/571.3c96eb5d88e956348880.js",
+        "/elements/592.0a3369be5409a9053e14.js",
+        "/elements/609.56a57e4461c5e6266491.js",
+        "/elements/857.2eaf8f0a05cdcd2bc09d.js",
+        "/elements/918.b59fdc1055d3725dd593.js",
+        "/elements/983.baaee89ab847cf3853b1.js",
+        "/elements/favicon.ico",
+        "/elements/index.html",
+        "/elements/main.7df9ec3023fec3a5d481.js",
+        "/elements/polyfills.c4e060499a396a944110.js",
+        "/elements/runtime.586e8463081ada07f882.js",
+        "/elements/styles.6511634fd4c632d36f2d.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/elements/assets/icons/icon-128x128.png",
+        "/elements/assets/icons/icon-144x144.png",
+        "/elements/assets/icons/icon-152x152.png",
+        "/elements/assets/icons/icon-192x192.png",
+        "/elements/assets/icons/icon-384x384.png",
+        "/elements/assets/icons/icon-512x512.png",
+        "/elements/assets/icons/icon-72x72.png",
+        "/elements/assets/icons/icon-96x96.png",
+        "/elements/assets/logo/github.svg",
+        "/elements/assets/logo/logo.png",
+        "/elements/assets/logo/logo.svg",
+        "/elements/assets/logo/twitter.svg",
+        "/elements/assets/tomastrajan.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/elements/140.647d21f2890217744710.js": "e8eaa7ee0e7a987f20cdebd2eada38d57fe82e13",
+    "/elements/146.0fbc8418f957b1361dc9.js": "1e4c69977a0f8193fd7a6f581dc09fca560dfdee",
+    "/elements/152.3082ebee810fee43d796.js": "be29b8894d1f5f4f1efdfe33c1a7639b11aa9056",
+    "/elements/171.595e55c1506f1a686d43.js": "a8f33c07e96318f627f0eecaed692f50e4823203",
+    "/elements/26.957c247350f27734d087.js": "bb81367498b7033d3f7b709f14d4b9b1fc001321",
+    "/elements/309.182a13728a67cc6e3df7.js": "7a7ba2a29654bbcf84e0859d67974417eaafddfa",
+    "/elements/394.8c5f7ad882716940a48b.js": "dd26d0255db070396787e8760293cc6cf2e4f4a0",
+    "/elements/42.e201dba491dc721aa79f.js": "fdd71d8c82eebcc5dfa2898dd6beb628186dbb3f",
+    "/elements/486.f83f00b89072cb1075fe.js": "a5e5a30840f1565a31fedb07d72cbb02f24dc7a8",
+    "/elements/542.527d9bc5f9ef7ed0ccc2.js": "a5c642aa8e5fe3a941e3d0af8d9e5c952153f8ed",
+    "/elements/548.99a0a959d61b24be4626.js": "b5915f17047a37e997c2443da526a5d7144e2043",
+    "/elements/566.e6b917438012aaa66ba7.js": "d03b6c848006c52c4688e52dd7e40bd9138d3a65",
+    "/elements/571.3c96eb5d88e956348880.js": "32d58fc5574749581ac531be8ef347a2327a8873",
+    "/elements/592.0a3369be5409a9053e14.js": "c5f70103afb7422132af220ef969cef252540a78",
+    "/elements/609.56a57e4461c5e6266491.js": "d2e8942b18f65d6fbe56ea1842c405f17a537674",
+    "/elements/857.2eaf8f0a05cdcd2bc09d.js": "df3109e19c03f2dadd5958a29f5262897b6413ef",
+    "/elements/918.b59fdc1055d3725dd593.js": "08dca43ec6697e7f6a1777fabe5de0ddde676a22",
+    "/elements/983.baaee89ab847cf3853b1.js": "cccf24bb93a68367564d2a6510b0bc100328db74",
+    "/elements/assets/icons/icon-128x128.png": "bb4c16ecdaf39eed9392f004d47690c6ca74a0ec",
+    "/elements/assets/icons/icon-144x144.png": "5e239a5f4a1baf09ecc26ab67b1661d606a312b2",
+    "/elements/assets/icons/icon-152x152.png": "d006afa46e441ae9aecedc44499afe54522147be",
+    "/elements/assets/icons/icon-192x192.png": "75dad1a5c614cfc6310de05f1f5552fc5956395c",
+    "/elements/assets/icons/icon-384x384.png": "93236fcff3aebee64a2a304572fe8ddfd0a358b8",
+    "/elements/assets/icons/icon-512x512.png": "4a63a95594b9df4a309df895feb80c9faad6ecac",
+    "/elements/assets/icons/icon-72x72.png": "98d1f700cee5fd6ac7e45c5e923c29a0b9298b9c",
+    "/elements/assets/icons/icon-96x96.png": "66daddebff01ed53ae0125358774fac84bbbca6d",
+    "/elements/assets/logo/github.svg": "8b032d9d804587c18e6f5b0cbf25629d5097f6cf",
+    "/elements/assets/logo/logo.png": "4c01cf51ac3d4972c09e4ca34965c5a0531ea69f",
+    "/elements/assets/logo/logo.svg": "2202e270d20c6683dac48db8ca46aff3a33d9ba9",
+    "/elements/assets/logo/twitter.svg": "165ec9568b6be0931333417a723b7c4dfabbd7fe",
+    "/elements/assets/tomastrajan.png": "ec2a67256fc2b9315814578b284ca567d6e32e90",
+    "/elements/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/elements/index.html": "e31f7bf414e299b9396579d3a4e4df1518f4c7e7",
+    "/elements/main.7df9ec3023fec3a5d481.js": "0dda51ed1bd6b0385cd0e8101adbaf017cbcceb0",
+    "/elements/polyfills.c4e060499a396a944110.js": "c1064285f50aa4a0675cbfa8455e208aed1d6bd6",
+    "/elements/runtime.586e8463081ada07f882.js": "9b6ee383178128d8dec5c1b2f391dc99311519a1",
+    "/elements/styles.6511634fd4c632d36f2d.css": "bc7fe9e1248624f860d2cdb71fe747c459b06312"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
